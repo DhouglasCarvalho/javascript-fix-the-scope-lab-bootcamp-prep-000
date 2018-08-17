@@ -22,7 +22,7 @@ const two = 2
 }
 
 var theFunk = funkyFunction() {
- console.log(theFunk)
+ console.log(funkyFunction)
 
 }
 
