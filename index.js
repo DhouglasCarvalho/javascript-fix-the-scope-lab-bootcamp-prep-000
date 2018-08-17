@@ -3,7 +3,8 @@ var animal = 'dog'
 function myAnimal() {
   return animal
 }
-console.log(`${animal}`)
+
+animal
 
 function yourAnimal() {
   // How can we make sure that this function
@@ -12,12 +13,12 @@ function yourAnimal() {
   return animal
 }
 
-const two = 2
+
 function add2(n) {
   return n + two
 
   // Feel free to move things around!
-
+const two = 2
 }
 
 var theFunk = funkyFunction()
